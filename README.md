@@ -1,5 +1,9 @@
 # Proviioning-EMR-cluster-using-terraform
 
+<p align="center">
+  <img width="1000" height="600" src="https://miro.medium.com/max/3840/1*lbEXiCBh7Tkhrj_rVhsRhA.gif">
+</p> 
+
 ## What is Amazon EMR?
 Amazon EMR (previously called Amazon Elastic MapReduce) is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark, on AWS to process and analyze vast amounts of data. Using these frameworks and related open-source projects, you can process data for analytics purposes and business intelligence workloads. Amazon EMR also lets you transform and move large amounts of data into and out of other AWS data stores and databases, such as Amazon Simple Storage Service (Amazon S3) and Amazon DynamoDB.
 
@@ -76,7 +80,7 @@ Terraform apply:
 ## EMR Cluster created:
 
 <p align="center">
-  <img width="1000" height="150" src="https://miro.medium.com/max/933/1*8wmoo8Se6oy4DteklbbS5A.png">
+  <img width="1000" height="75" src="https://miro.medium.com/max/933/1*8wmoo8Se6oy4DteklbbS5A.png">
 </p> 
 
 I hope you had like this article. Thank you !!
