@@ -69,5 +69,14 @@ Terraform apply:
 </p> 
 
 <p align="center">
-  <img width="1000" height="400" src="https://miro.medium.com/max/933/1*4d0ztGU20IyKLtLwkggK4A.png">
+  <img width="1000" height="400" src="https://miro.medium.com/max/933/1*vH66y9I2YaIpVZoj_OCN0g.png">
 </p> 
+
+
+## EMR Cluster created:
+
+<p align="center">
+  <img width="1000" height="150" src="https://miro.medium.com/max/933/1*8wmoo8Se6oy4DteklbbS5A.png">
+</p> 
+
+I hope you had like this article. Thank you !!
